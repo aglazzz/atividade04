@@ -1,0 +1,33 @@
+{
+  "name": "atividade04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aglazzz/atividade04.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "express",
+    "http",
+    "post"
+  ],
+  "author": "manu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aglazzz/atividade04/issues"
+  },
+  "homepage": "https://github.com/aglazzz/atividade04#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2"
+  }
+}
